@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jiangfeng/Documents/CLion/LeetCode/贪心/455. Assign Cookies/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+

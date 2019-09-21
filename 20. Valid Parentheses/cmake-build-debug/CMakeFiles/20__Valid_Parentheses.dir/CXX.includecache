@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jiangfeng/Documents/CLion/LeetCode/20. Valid Parentheses/main.cpp
+iostream
+-
+vector
+-
+string
+-
+stack
+-
+math.h
+-
+queue
+-
+map
+-
+algorithm
+-
+
